@@ -27,5 +27,6 @@ Get it here: [process-scheduling-solver.boonsuen.com](https://process-scheduling
 - TypeScript
 - styled-components
 
-## Upcoming
-- [ ] Support higher number for higher priority
+## Purpose
+
+This project was developed as part of my Operating Systems course project to demonstrate the working and performance comparison of various CPU scheduling algorithms.
